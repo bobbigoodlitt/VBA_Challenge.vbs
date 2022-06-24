@@ -1,2 +1,3 @@
 # VBA_Challenge.vbs
 Analyzing the stock market 
+The purpose of this analysis is to perform a comparison of the stock performance in 2017 and 2018. Based on the VBA script, the stock market had a stronger return in the year  2017 versus 2018. The stock market was bullish in 2017 and bearish in 2018. The advantage of refactoring the script is the dataset is consolidated and provides a simple overview.  The disadvantage of the refactoring is that it doesn't provide specific details/elements such as the opening price, closing price, high, low and etc. However, I do believe that refactoring does simplify the data and makes the message clearer. 
